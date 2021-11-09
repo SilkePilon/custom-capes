@@ -6,65 +6,68 @@ A simple way to use custom minecraft capes without mods.
 
 
 
+
 ## Capes includet with code
-Minecon 2011<br/>
-![image](https://github.com/overnice-exe/custom-capes/blob/main/2011.png)
-Minecon 2012<br/>
-![image](https://github.com/overnice-exe/custom-capes/blob/main/2012.png)
-Minecon 2013<br/>
-![image](https://github.com/overnice-exe/custom-capes/blob/main/2013.png)
-Minecon 2015<br/>
-![image](https://github.com/overnice-exe/custom-capes/blob/main/2015.png)
-Minecon 2016<br/>
-![image](https://github.com/overnice-exe/custom-capes/blob/main/2016.png)
-Bacon<br/>
-![image](https://github.com/overnice-exe/custom-capes/blob/main/Bacon.png)
-BugTracker<br/>
-![image](https://github.com/overnice-exe/custom-capes/blob/main/BugTracker.png)
-Cheapsh0t<br/>
-![image](https://github.com/overnice-exe/custom-capes/blob/main/Cheapsh0t.png)
-Christmas 2010<br/>
-![image](https://github.com/overnice-exe/custom-capes/blob/main/Christmas_2010.png)
-Cobalt<br/>
-![image](https://github.com/overnice-exe/custom-capes/blob/main/Cobalt.png)
-DannyBstyles<br/>
-![image](https://github.com/overnice-exe/custom-capes/blob/main/DannyBstyles.png)
-JulianClark<br/>
-![image](https://github.com/overnice-exe/custom-capes/blob/main/JulianClark.png)
-Mapmaker<br/>
-![image](https://github.com/overnice-exe/custom-capes/blob/main/Mapmaker.png)
-Millionth Customer<br/>
-![image](https://github.com/overnice-exe/custom-capes/blob/main/Millionth_Customer.png)
-Mojang Classic<br/>
-![image](https://github.com/overnice-exe/custom-capes/blob/main/Mojang_Classic.png)
-MrMessiah<br/>
-![image](https://github.com/overnice-exe/custom-capes/blob/main/MrMessiah.png)
-New Years 2011<br/>
-![image](https://github.com/overnice-exe/custom-capes/blob/main/New_Years_2011.png)
-Party Cape<br/>
-![image](https://github.com/overnice-exe/custom-capes/blob/main/PartyCape.png)
-Prismarine<br/>
-![image](https://github.com/overnice-exe/custom-capes/blob/main/Prismarine.png)
-Turtle<br/>
-![image](https://github.com/overnice-exe/custom-capes/blob/main/Turtle.png)
-Unused 2011 1<br/>
-![image](https://github.com/overnice-exe/custom-capes/blob/main/Unused2011-1.png)
-Unused 2011 2<br/>
-![image](https://github.com/overnice-exe/custom-capes/blob/main/Unused2011-2.png)
-Unused 2011 3<br/>
-![image](https://github.com/overnice-exe/custom-capes/blob/main/Unused2011-3.png)
-migration<br/>
-![image](https://github.com/overnice-exe/custom-capes/blob/main/migration.png)
-mojang new<br/>
-![image](https://github.com/overnice-exe/custom-capes/blob/main/mojang_new.png)
-mojang old<br/>
-![image](https://github.com/overnice-exe/custom-capes/blob/main/mojang_old.png)
-template 1<br/>
-![image](https://github.com/overnice-exe/custom-capes/blob/main/template-1.png)
-template 2<br/>
-![image](https://github.com/overnice-exe/custom-capes/blob/main/template-no-bg.png)
-template 3<br/>
+Minecon 2011
+![image](https://github.com/overnice-exe/custom-capes/blob/main/2011.png)<br/>
+Minecon 2012
+![image](https://github.com/overnice-exe/custom-capes/blob/main/2012.png)<br/>
+Minecon 2013
+![image](https://github.com/overnice-exe/custom-capes/blob/main/2013.png)<br/>
+Minecon 2015
+![image](https://github.com/overnice-exe/custom-capes/blob/main/2015.png)<br/>
+Minecon 2016
+![image](https://github.com/overnice-exe/custom-capes/blob/main/2016.png)<br/>
+Bacon
+![image](https://github.com/overnice-exe/custom-capes/blob/main/Bacon.png)<br/>
+BugTracker
+![image](https://github.com/overnice-exe/custom-capes/blob/main/BugTracker.png)<br/>
+Cheapsh0t
+![image](https://github.com/overnice-exe/custom-capes/blob/main/Cheapsh0t.png)<br/>
+Christmas 2010
+![image](https://github.com/overnice-exe/custom-capes/blob/main/Christmas_2010.png)<br/>
+Cobalt
+![image](https://github.com/overnice-exe/custom-capes/blob/main/Cobalt.png)<br/>
+DannyBstyles
+![image](https://github.com/overnice-exe/custom-capes/blob/main/DannyBstyles.png)<br/>
+JulianClark
+![image](https://github.com/overnice-exe/custom-capes/blob/main/JulianClark.png)<br/>
+Mapmaker
+![image](https://github.com/overnice-exe/custom-capes/blob/main/Mapmaker.png)<br/>
+Millionth Customer
+![image](https://github.com/overnice-exe/custom-capes/blob/main/Millionth_Customer.png)<br/>
+Mojang Classic
+![image](https://github.com/overnice-exe/custom-capes/blob/main/Mojang_Classic.png)<br/>
+MrMessiah
+![image](https://github.com/overnice-exe/custom-capes/blob/main/MrMessiah.png)<br/>
+New Years 2011
+![image](https://github.com/overnice-exe/custom-capes/blob/main/New_Years_2011.png)<br/>
+Party Cape
+![image](https://github.com/overnice-exe/custom-capes/blob/main/PartyCape.png)<br/>
+Prismarine
+![image](https://github.com/overnice-exe/custom-capes/blob/main/Prismarine.png)<br/>
+Turtle
+![image](https://github.com/overnice-exe/custom-capes/blob/main/Turtle.png)<br/>
+Unused 2011 1
+![image](https://github.com/overnice-exe/custom-capes/blob/main/Unused2011-1.png)<br/>
+Unused 2011 2
+![image](https://github.com/overnice-exe/custom-capes/blob/main/Unused2011-2.png)<br/>
+Unused 2011 3
+![image](https://github.com/overnice-exe/custom-capes/blob/main/Unused2011-3.png)<br/>
+migration
+![image](https://github.com/overnice-exe/custom-capes/blob/main/migration.png)<br/>
+mojang new
+![image](https://github.com/overnice-exe/custom-capes/blob/main/mojang_new.png)<br/>
+mojang old
+![image](https://github.com/overnice-exe/custom-capes/blob/main/mojang_old.png)<br/>
+template 1
+![image](https://github.com/overnice-exe/custom-capes/blob/main/template-1.png)<br/>
+template 2
+![image](https://github.com/overnice-exe/custom-capes/blob/main/template-no-bg.png)<br/>
+template 3
 ![image](https://github.com/overnice-exe/custom-capes/blob/main/unperformed_head.png)<br/>
+
+
 
 
 
