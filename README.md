@@ -170,3 +170,6 @@ if the code runs after this you can close if becase its a bug just us e Ctrl + c
 
 ![App Screenshot](https://github.com/overnice-exe/custom-capes/blob/main/img1.png)
 
+## Authors
+
+- [@overnice-exe](https://github.com/overnice-exe)
