@@ -3,7 +3,6 @@
   <img src="https://github.com/overnice-exe/custom-capes/blob/main/logo.bmp" />
 </p>
 
-# ![Logo](https://github.com/overnice-exe/custom-capes/blob/main/logo.bmp)
 
 
 # Custom Capes project
