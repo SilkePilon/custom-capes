@@ -97,7 +97,7 @@ here you can select the option you want
     ■>
 ```
 here you can chose you version 1.8.X is the only 1 that works at the moment
-```bash
+```
     ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
     ■ whats is your minecraft version? ■
     ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
@@ -107,14 +107,14 @@ here you can chose you version 1.8.X is the only 1 that works at the moment
     ■>
 ```
 if you used the cape changer before YOU NEED TO SAY "yes" else if you did not, say "no"
-```bash
+```diff
     ■■■■■■■■■■■■■■■■■■■■■■■■■
     ■ do you want to reset? ■
     ■■■■■■■■■■■■■■■■■■■■■■■■■
-    (yes/no) ■>
+    (+yes/-no) ■>
 ```
 the following are just yes or no options
-```bash
+```
     C:\Users\NAME\AppData\Roaming\.minecraft\assets\skins\23\ random string to text
     ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
     ■ do you want to make a optifine cape? ■
@@ -122,14 +122,14 @@ the following are just yes or no options
     (yes/no) ■>
 ```
 
-```bash
+```
     ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
     ■ do you want to make your head into a cape? ■
     ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
     (yes/no) ■>
 ```
 here you can select the cape name you want to use. just type the name of the cape in. you can just custom capes here also a .png is not needed
-```bash
+```
     ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
     2011
     2012
