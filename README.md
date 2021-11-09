@@ -111,7 +111,7 @@ if you used the cape changer before YOU NEED TO SAY "yes" else if you did not, s
     ■■■■■■■■■■■■■■■■■■■■■■■■■
     ■ do you want to reset? ■
     ■■■■■■■■■■■■■■■■■■■■■■■■■
-    (+yes/-no) ■>
+    (yes/no) ■>
 ```
 the following are just yes or no options
 ```
