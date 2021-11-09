@@ -86,7 +86,7 @@ Download the latest release of the code.
 
 here you can select the option you want
 1 will reset all cape files so if you use it you need to restart and open a world on the version you want to use
-```cmd
+```python
     ■■■■■■■■■■■■■■■■■■■■■■■■■■■
     ■ what do you want to do? ■
     ■■■■■■■■■■■■■■■■■■■■■■■■■■■
