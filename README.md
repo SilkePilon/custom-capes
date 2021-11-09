@@ -4,12 +4,9 @@
 A simple way to use custom minecraft capes without mods.
 
 
-## Capes includet with code
-
-
 
 ## Capes includet with code
-Minecon 2011
+Minecon 2011<br/>
 ![image](https://github.com/overnice-exe/custom-capes/blob/main/2011.png)
 Minecon 2012
 ![image](https://github.com/overnice-exe/custom-capes/blob/main/2012.png)
@@ -43,6 +40,7 @@ Minecon 2016
 ![image](https://github.com/overnice-exe/custom-capes/blob/main/template-1.png)
 ![image](https://github.com/overnice-exe/custom-capes/blob/main/template-no-bg.png)
 ![image](https://github.com/overnice-exe/custom-capes/blob/main/unperformed_head.png)
+
 
 
 
