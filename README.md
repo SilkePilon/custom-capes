@@ -1,10 +1,10 @@
 
+![Logo](https://github.com/overnice-exe/custom-capes/blob/main/logo.bmp)
+
+
 # Custom Capes project
 
 A simple way to use custom minecraft capes without mods.
-
-
-
 
 
 ## Capes includet with code
@@ -66,15 +66,6 @@ template 2
 ![image](https://github.com/overnice-exe/custom-capes/blob/main/template-no-bg.png)<br/>
 template 3
 ![image](https://github.com/overnice-exe/custom-capes/blob/main/unperformed_head.png)<br/>
-
-
-
-
-
-
-
-
-
 
 
 ## Features
@@ -172,3 +163,7 @@ here you can select the cape name you want to use. just type the name of the cap
 if the code runs after this you can close if becase its a bug just us e Ctrl + c
 
     
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
