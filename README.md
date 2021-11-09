@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/overnice-exe/custom-capes/blob/main/bg-logo.png" />
+  <img src="https://github.com/overnice-exe/custom-capes/blob/main/logo.bmp" />
 </p>
 
 
